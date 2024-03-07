@@ -1,1 +1,1 @@
-# Algorytm-planowania-czasu-procesora-SJF-niewyw-aszczaj-cy-Shortest-Job-First-
+Algorytm został wykonany 01.2023 na kurs Systemy Operacyjne (3 semestr Teleinformatyka)
